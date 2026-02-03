@@ -2,16 +2,7 @@
 ### 🚀 Data Analyst | Data Science Enthusiast  
 
 I turn raw data into insights, models, and stories that actually *mean something*.  
-I like fast pipelines, clean SQL, reproducible Python, and projects that solve real problems. 
-
----
-
-## ⚡ Fast Pass (TL;DR)
-
-- 🧠 **Role Focus:** Data Analyst / Data Science
-- 🛠️ **Core Stack:** Python • SQL • Excel • Power BI • Machine Learning • Statistics
-- 📂 **Projects:** End-to-end, reproducible, insight-driven
-- 🔗 **GitHub:** [JayyantIndallia66](https://github.com/JayyantIndallia66)
+I like fast pipelines, clean SQL, reproducible Python, and projects that solve real problem
 
 ---
 
