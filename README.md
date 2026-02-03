@@ -1,4 +1,4 @@
-#         Jayant Indalia  
+#    Hi I'm Jayant Indalia  
 ### 🚀 Data Analyst | Data Science Enthusiast  
 
 I turn raw data into insights, models, and stories that actually *mean something*.  
