@@ -80,7 +80,7 @@ I enjoy working across the full data pipeline:
 ## 🤝 Let’s Connect
 
 - 💻 **GitHub:** [https://github.com/JayyantIndallia66](https://github.com/JayyantIndallia66)
-- 📬 **Email / LinkedIn:** _jayant041@gmail.com_
+- 📬 **Email:** _jayant041@gmail.com_
 
 ---
 
