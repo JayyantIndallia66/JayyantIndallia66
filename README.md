@@ -1,10 +1,11 @@
 #    Hi👋, I'm Jayant Indalia  
 ### 🚀 A passionate Data Analyst | Data Science Enthusiastic  
 
-I turn raw data into insights, models, and stories that actually *mean something*.  
-I like fast pipelines, clean SQL, reproducible Python, and projects that solve real problem.
-
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
+
+---
+# 💫 About Me:
+I enjoy working across the full data pipeline:<br><br>I turn raw data into insights, models, and stories that actually mean something.<br>I like fast pipelines, clean SQL, reproducible Python, and projects that solve real problem.<br><br>Cleaning, modeling, and analyzing messy data.<br>Building dashboards and ML models that are easy to interpret.<br>Communicating insights clearly to both technical and non-technical audiences.
 
 ---
 
@@ -13,16 +14,6 @@ I like fast pipelines, clean SQL, reproducible Python, and projects that solve r
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-## 🧠 About Me:
-
-I enjoy working across the full data pipeline:
-- Asking the *right* business questions  
-- Cleaning, modeling, and analyzing messy data  
-- Building dashboards and ML models that are easy to interpret  
-- Communicating insights clearly to both technical and non-technical audiences  
 
 ---
 
@@ -84,6 +75,4 @@ I enjoy working across the full data pipeline:
 [![](https://visitcount.itsvg.in/api?id=JayyantIndallia66&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 
