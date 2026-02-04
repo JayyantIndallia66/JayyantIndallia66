@@ -2,7 +2,9 @@
 ### 🚀 A passionate Data Analyst | Data Science Enthusiastic  
 
 I turn raw data into insights, models, and stories that actually *mean something*.  
-I like fast pipelines, clean SQL, reproducible Python, and projects that solve real problem
+I like fast pipelines, clean SQL, reproducible Python, and projects that solve real problem.
+
+<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
 ---
 
